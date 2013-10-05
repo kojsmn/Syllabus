@@ -9,7 +9,11 @@ Dr. W.J. "Bo" Brinkman, 205-G Benton Hall
 
 * Phone: 513-529-0354
 * Email: Bo.Brinkman@
-* Office hours: TBA
+* Office hours:
+  * M: 10-11:15
+  * T: 2-3:30
+  * W: 10-11:15
+  * F: 3:30-5
 
 Important dates
 ---------------
@@ -115,46 +119,48 @@ Schedule
 ========
 * Week 0: Aug 26 - 30
  * Topics: Intro to Data Structures and Git
- * Assignment: https://github.com/MiamiOH-CSE274/01_Git_and_Intro - Due Sept 3, by midnight.
+ * Assignment: https://github.com/MiamiOH-CSE274/01_Git_and_Intro - Due Sept 3, by 11:59pm.
 * Week 1: Sept 2 - 6
  * Monday is Labor Day - No Class
  * Topics: Intro to C++
- * Assignment: https://github.com/MiamiOH-CSE274/02_Cpp - Due Sept 9, by midnight.
+ * Assignment: https://github.com/MiamiOH-CSE274/02_Cpp - Due Sept 9, by 11:59pm.
 * Week 1.5: Sept 9 - 13
  * Topics: Array-based lists
- * Assignment: https://github.com/MiamiOH-CSE274/03_Queue_Lab - Due Sept 16, by midnight.
+ * Assignment: https://github.com/MiamiOH-CSE274/03_Queue_Lab - Due Sept 18, by 11:59pm.
 * Week 2.5: Sept 16 - 20
  * Topics: Linked lists
- * Assignment: https://github.com/MiamiOH-CSE274/04_Linked_List_Lab - Due Sept 23, by midnight.
+ * Assignment: https://github.com/MiamiOH-CSE274/04_Linked_List_Lab - Due Sept 25, by 11:59pm.
 * Week 3.5: Sept 23 - 27
  * Topics: Shuffling project, exam review
- * Project: https://github.com/MiamiOH-CSE274/Shuffle - Due Oct 7, by midnight.
+ * Project: https://github.com/MiamiOH-CSE274/Shuffle - Due Oct 14, by 11:59pm.
 * Week 4.5: Sept 30 - Oct 4
  * Dr. Brinkman at ISMAR
- * Topics: Exam 1 on Monday, Sorting lab on Wednesday
+ * Topics: Exam 1 on Monday, https://github.com/MiamiOH-CSE274/Interactive-Debugging lab on Wednesday
 * Week 5.5: Oct 7 - 12
  * Topics: Hashing
- * Assignment: https://github.com/MiamiOH-CSE274/05_Hashing_Lab - Due Oct 14, by midnight.
- * Project: Zeitgeist
+ * Submit your https://github.com/MiamiOH-CSE274/Portfolio for midterm grading by Oct 10, 11:59pm
+ * Assignment: https://github.com/MiamiOH-CSE274/05_Hashing_Lab - Due Oct 14, by 11:59pm.
+ * Project: Zeitgeist, https://github.com/MiamiOH-CSE274/Zeitgeist - Due Oct 21, by 11:59pm.
 * Week 6.5: Oct 14 - 18
  * Topics: Binary search trees
- * Assignment: TODO
+ * Assignment: https://github.com/MiamiOH-CSE274/06_BST_Lab - Due Oct 21, by 11:59pm.
 * Week 7.5: Oct 21 - 25
  * Topics: Starbucks project
- * Project: Nearest Starbucks
+ * Project: Nearest Starbucks, https://github.com/MiamiOH-CSE274/ClosestStarbucks - Due Nov 4, by 11:59pm
 * Week 8.5: Oct 28 - Nov 1
  * Topics: Heaps, exam review
 * Week 9.5: Nov 4 - 8
- * Topics: Exam 2 on Monday, Heap lab on Wednesday
+ * Topics: Exam 2 on Monday
+ * Assignment: https://github.com/MiamiOH-CSE274/07_Heap_Lab - Work in class on Nov. 6
 * Week 10.5: Nov 11 - 15
  * Topics: Graphs
- * Assigment: TODO
+ * Assigment: https://github.com/MiamiOH-CSE274/08_Graph_Lab - Due Nov 18, by 11:59pm
 * Week 11.5: Nov 18 - 22
  * Topics: Graph algorithms
  * Assignment: TODO
 * Week 12.5: Nov 25 - 29
  * Topics: Graph project
- * Project: TODO
+ * Project: Game project LINK TODO - Due Dec 4, by start of class (we will show YouTube video demos during class)
  * Thanksgiving break: No class Wed
 * Week 13: Dec 2 - 6
  * Topics: Graph project and project portfolio
